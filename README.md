@@ -1,27 +1,27 @@
 # sistemavacacional
-//Una empresa solicita un sistema que determine los días de vacaciones a
-//los que tiene derecho un trabajador, tomando en cuenta las siguientes características:
+//A company requests a system that determines vacation days for
+// Those that correspond to the worker, taking into account the following characteristics:
 
 
-//Existen tres departamentos dentro de la empresa con sus respectivas claves:
-//1- Departamento de Atención al cliente. (Clave 1)
-//2- Departamento de Logística. (Clave 2)
-//3- Gerencia. (Clave 3)
+//There are three departments within the company with their respective keys:
+//1- Customer Service Department. (Key 1)
+//2- Logistics Department. (Key 2)
+//3- Management. (Key 3)
 
 
-//Trabajadores con clave 1(Atención al cliente):
-//- Con 1 año de servicio, reciben 6 días de vacaciones.
-//- Con 2 a 6 años de servicio, reciben 14 días de vacaciones.
-//- A partir de 7 años de servicio, reciben 20 días de vacaciones.
+//Workers with password 1(Customer Service):
+//- With 1 year of service, he receives 6 vacation days.
+//- With 2 to 6 years of service, receive 14 days of vacation.
+//- After 7 years of service, receive 20 vacation days.
 
 
-//Trabajadores con clave 2(Logística):
-//- Con 1 año de servicio, reciben 7 días de vacaciones.
-//- Con 2 a 6 años de servicio, reciben 15 días de vacaciones.
-//- A partir de 7 años de servicio, reciben 22 días de vacaciones.
+//Workers with key 2(Logistics):
+//- With 1 year of service, he receives 7 vacation days.
+//- With 2 to 6 years of service, receive 15 vacation days.
+//- After 7 years of service, he receives 22 vacation days.
 
 
-//Trabajadores con clave 3(Gerencia):
-//- Con 1 año de servicio, reciben 10 días de vacaciones.
-//- Con 2 a 6 años de servicio, reciben 20 días de vacaciones.
-//- A partir de 7 años de servicio, reciben 30 días de vacaciones.
+//Workers with password 3(Administration):
+//- With 1 year of service, he receives 10 vacation days.
+//- With 2 to 6 years of service, receive 20 vacation days.
+//- After 7 years of service, receive 30 days of vacation.
