@@ -8,19 +8,19 @@ There are three departments within the company with their respective keys:
 - 3- Management. (Key 3)
 
 
-Workers with password 1(Customer Service):
+Workers with password 1 (Customer Service):
 - With 1 year of service, he receives 6 vacation days.
 - With 2 to 6 years of service, receive 14 days of vacation.
 - After 7 years of service, receive 20 vacation days.
 
 
-Workers with key 2(Logistics):
+Workers with key 2 (Logistics):
 - With 1 year of service, he receives 7 vacation days.
 - With 2 to 6 years of service, receive 15 vacation days.
 - After 7 years of service, he receives 22 vacation days.
 
 
-Workers with password 3(Administration):
+Workers with password 3 (Administration):
 - With 1 year of service, he receives 10 vacation days.
 - With 2 to 6 years of service, receive 20 vacation days.
 - After 7 years of service, receive 30 days of vacation.
